@@ -1,0 +1,53 @@
+
+body{
+    text-align: center;
+    background-color: #F8F8FF;
+}
+
+#searchWeather{
+    padding: 20px;
+    margin: auto;
+    padding-bottom: 20px;
+    background-color:#F5F5F5;
+    border: 2px ridge black;
+    font-size: large;
+    width: 80%;
+   
+    
+}
+
+#searchResults{
+    background-color:#F5F5F5;
+    border: 2px ridge black;
+    font-size: large;
+    display: grid;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  input {
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: black;
+    
+  }
+#reset{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+  
